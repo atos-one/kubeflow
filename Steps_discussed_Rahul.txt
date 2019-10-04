@@ -1,0 +1,22 @@
+Step 1 : Data in Snowflake
+         BMI and Heart risk data
+
+Step 2 : Data Discovery in Snowflake
+
+Step 3 : Create a Job in Kubeflow connected to Snowflake
+	Snowflake data training Job
+
+Step 4 : Developer is able to work on Snowflake data in Jupyter(Python) 
+Step 4.1 : Using Python Connector for Snowflake and SQL Alchemy 
+
+Step 5 : Preparing model 
+
+Step 5 : Git commit the Model into repo
+
+
+Another kubeflow model version with reduced dataset. with parameter tuning data reduction
+
+Git two version docker 
+
+
+
